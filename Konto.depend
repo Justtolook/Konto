@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1490693168 source:h:\c\konto\girokonto.cpp
+	<iostream>
+	<stdio.h>
+	"girokonto.h"
+	<math.h>
+
+1491305552 h:\c\konto\girokonto.h
+	"konto.h"
+
+1491303086 source:h:\c\konto\konto.cpp
+	<iostream>
+	<stdio.h>
+	"konto.h"
+	<math.h>
+
+1491307466 source:h:\c\konto\main.cpp
+	<iostream>
+	<stdio.h>
+	"girokonto.h"
+	"sparkonto.h"
+	"konto.h"
+	"kunde.h"
+
+1490693559 source:h:\c\konto\sparkonto.cpp
+	<iostream>
+	<stdio.h>
+	"sparkonto.h"
+	<math.h>
+
+1491305552 h:\c\konto\sparkonto.h
+	"konto.h"
+
+1491300814 h:\c\konto\konto.h
+
+1491307428 source:h:\c\konto\kunde.cpp
+	<iostream>
+	<stdio.h>
+	"kunde.h"
+	"sparkonto.h"
+	"girokonto.h"
+
+1491306952 h:\c\konto\kunde.h
+	"konto.h"
+
